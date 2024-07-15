@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Salmon Salad",
+    "description": "Freshly grilled salmon with mixed greens and balsamic vinaigrette.",
+    "price": 15.99
+  },
+  {
+    "id": 2,
+    "name": "pasta Carbonara",
+    "description": "Spaghetti with creamy carbonara sauce and crispy bacon.",
+    "price": 12.49
+  }
+]
